@@ -1,3 +1,5 @@
+<a href="https://www.codefactor.io/repository/github/rkazula/base64_to_image_decoder"><img src="https://www.codefactor.io/repository/github/rkazula/base64_to_image_decoder/badge" alt="CodeFactor" /></a>
+
 # base64_to_image_decoder
 Decoding images from byte array[] base64 to image. 
 
